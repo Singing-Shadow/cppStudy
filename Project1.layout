@@ -1,0 +1,87 @@
+[
+    {
+        "caretX": 1,
+        "caretY": 2,
+        "filename": "D:/RedPanda-CPP/24-7-5-C++/Project1/base.cpp",
+        "focused": false,
+        "isOpen": false,
+        "left": 0,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 3,
+        "filename": "D:/RedPanda-CPP/24-7-5-C++/Project1/player.cpp",
+        "focused": false,
+        "isOpen": false,
+        "left": 0,
+        "top": 0
+    },
+    {
+        "caretX": 21,
+        "caretY": 9,
+        "filename": "D:/RedPanda-CPP/24-7-5-C++/Project1/player.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 1,
+        "top": 0
+    },
+    {
+        "caretX": 11,
+        "caretY": 10,
+        "filename": "D:/RedPanda-CPP/24-7-5-C++/Project1/main.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 0,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "D:/RedPanda-CPP/24-7-5-C++/Project1/entity.cpp",
+        "focused": false,
+        "isOpen": false,
+        "left": 0,
+        "top": 0
+    },
+    {
+        "caretX": 3,
+        "caretY": 19,
+        "filename": "D:/RedPanda-CPP/24-7-5-C++/Project1/entity.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 2,
+        "top": 0
+    },
+    {
+        "caretX": 16,
+        "caretY": 6,
+        "filename": "D:/RedPanda-CPP/24-7-5-C++/Project1/base.h",
+        "focused": true,
+        "isOpen": true,
+        "left": 0,
+        "order": 3,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 3,
+        "filename": "D:/RedPanda-CPP/24-7-5-C++/Project1/vector2.cpp",
+        "focused": false,
+        "isOpen": false,
+        "left": 0,
+        "top": 0
+    },
+    {
+        "caretX": 4,
+        "caretY": 19,
+        "filename": "D:/RedPanda-CPP/24-7-5-C++/Project1/vector2.h",
+        "focused": false,
+        "isOpen": false,
+        "left": 0,
+        "top": 0
+    }
+]
